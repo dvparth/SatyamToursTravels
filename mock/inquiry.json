@@ -1,0 +1,48 @@
+{
+  "inquiry": [
+    {
+      "rating": 2,
+      "clientName": "Parth Dave",
+      "mobile": "+919574189510",
+      "destination": "Himachal",
+      "travelDate": "2022-12-22T18:30:00.000Z",
+      "totalAdult": "2",
+      "totalChild": "1",
+      "inquiryDate": "2022-10-31T12:21:00.000Z",
+      "id": 2
+    },
+    {
+      "rating": 1,
+      "clientName": "Mitali Pandya",
+      "mobile": "+917876854657",
+      "destination": "Rajkot",
+      "travelDate": "2022-11-27T12:43:01.000Z",
+      "totalAdult": "2",
+      "totalChild": "1",
+      "inquiryDate": "2022-11-07T12:43:01.000Z",
+      "id": 3
+    },
+    {
+      "rating": 5,
+      "clientName": "Raxa Dave",
+      "mobile": "54645646546",
+      "destination": "Dwarka",
+      "travelDate": "2022-11-09T14:06:08.000Z",
+      "totalAdult": "1",
+      "totalChild": "1",
+      "inquiryDate": "2022-11-21T14:06:08.000Z",
+      "id": 4
+    }
+  ],
+  "propertyTypes": [
+    "1*",
+    "2*",
+    "3*",
+    "4*",
+    "5*"
+  ],
+  "mealPlans": [
+    "Vegetarian",
+    "NonVegetarian"
+  ]
+}
